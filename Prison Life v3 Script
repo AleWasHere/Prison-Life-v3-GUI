@@ -75,6 +75,6 @@ end)
 local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("Credits")
 
-CreditsSection:NewLabel("Wouldn't have been done without 1 FO. he provided a tutorial on how to make this gui.")
+CreditsSection:NewLabel("Wouldn't have been done without 1 FO.")
 CreditsSection:NewLabel("he provided a tutorial on how to make this gui.")
 CreditsSection:NewLabel("Creator: sebas_was.here | I love @E")
